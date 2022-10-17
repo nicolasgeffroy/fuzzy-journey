@@ -203,3 +203,8 @@ mydata.longer %>%
   pivot_wider(names_from = measure, values_from = values) # Now Values from `values` are  uniquely identified
 
 #that's it for today! ------------------------------------------------------------
+
+#I mean not really
+
+Print(ea)
+
